@@ -2,7 +2,7 @@
 
 **`Estudante de Ciência da Computação`**
 
-🎓 Cursando o 6º período de Ciência da Computação, tenho 20 anos e venho me aprofundando em desenvolvimento Backend e construção de APIs. Tenho paixão especial por MySQL e estou sempre em busca de me aprofundar mais nessa área. Atualmente em busca de uma oportunidade de estágio para colocar em prática tudo que venho aprendendo. 🚀
+🎓 Cursando o 6º período de Ciência da Computação, tenho 20 anos e venho me aprofundando em desenvolvimento **Backend e construção de APIs**. Tenho paixão especial por **MySQL** e estou sempre em busca de me aprofundar mais nessa área. Atualmente em busca de uma oportunidade de **estágio** para colocar em prática tudo que venho aprendendo. 🚀
 
 <p align="left">
     <a href="https://github.com/ramosBlk?tab=repositories&sort=stargazers">
@@ -101,14 +101,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ramosBlk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=ramosBlk&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramosBlk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=ramosBlk&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
