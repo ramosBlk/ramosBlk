@@ -33,8 +33,10 @@ Atualmente, busco uma **oportunidade de estágio em desenvolvimento de software*
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projeto em destaque
+## Redes Sociais
 
-### [Hidden Way](https://github.com/ramosBlk/--Hidden-Way---)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramosblk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramosblk)
+[![E-mail](https://img.shields.io/badge/E--mail-pedro.ramos5786%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.ramos5786@gmail.com)
+[![Twitch](https://img.shields.io/badge/Twitch-plzzz1-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/plzzz1)
 
-Jogo 2D de plataforma e aventura desenvolvido com **Python** e **Pygame**. O projeto explora mecânicas de movimentação, plataformas, obstáculos e progressão por fases.
+**Discord:** `bekkjj`
