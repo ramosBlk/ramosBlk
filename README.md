@@ -58,5 +58,3 @@ Também estou estudando **automações** e formas de aplicá-las nos meus projet
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramosblk-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramosblk)
 [![E-mail](https://img.shields.io/badge/E--mail-pedro.ramos5786%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pedro.ramos5786@gmail.com)
 [![Twitch](https://img.shields.io/badge/Twitch-plzzz1-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/plzzz1)
-
-**Discord:** `bekkjj`
