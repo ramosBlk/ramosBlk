@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner - ramosBlk.gif" alt="Banner ramosBlk" width="100%">
+  <img src="https://raw.githubusercontent.com/ramosBlk/ramosBlk/main/assets/banner%20-%20ramosBlk.gif" alt="Banner ramosBlk" width="100%">
 </p>
 
 
